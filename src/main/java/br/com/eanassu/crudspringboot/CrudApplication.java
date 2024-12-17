@@ -1,4 +1,4 @@
-package br.com.eanassu;
+package br.com.eanassu.crudspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

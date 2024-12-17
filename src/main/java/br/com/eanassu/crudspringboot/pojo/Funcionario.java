@@ -1,4 +1,4 @@
-package br.com.eanassu;
+package br.com.eanassu.crudspringboot.pojo;
 
 import java.util.Date;
 

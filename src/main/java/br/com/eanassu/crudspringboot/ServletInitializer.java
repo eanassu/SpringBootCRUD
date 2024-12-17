@@ -1,4 +1,4 @@
-package br.com.eanassu;
+package br.com.eanassu.crudspringboot;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
